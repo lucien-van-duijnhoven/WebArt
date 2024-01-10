@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Lucien van Duijnoven",
+    "email": "lucien.v.d@outlook.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
